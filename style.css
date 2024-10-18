@@ -1,0 +1,27 @@
+form{
+    background-color: antiquewhite;
+    width: 300px;
+    display: flex;
+    padding: 20px;
+}
+input{
+    width: 100%;
+    padding: 15px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.button{
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    background-color: rgba(24, 128, 24, 0.582);
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #499a7b;
+}
