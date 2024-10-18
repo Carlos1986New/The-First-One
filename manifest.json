@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "The First One",
+    "version": "1.0",
+    "description": "Minha primeira extensão nessa vida",
+    "permissions": ["activeTab", "scripting"],
+    "icons": {
+        "16": "baixados.png",
+        "32": "baixados.png",
+        "48": "baixados.png",
+        "128": "baixados.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "baixados.png",
+            "32": "baixados.png",
+            "48": "baixados.png",
+            "128": "baixados.png"
+        },
+        "default_popup": "index.html"
+    }
+}
